@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">16-10-2023Share Market</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">117053949585143753288</string>
+    <string name="facebook_app_id">982294109539349</string>
+    <string name="facebook_client_token">433119fef9cd14aa386f9e0cb637fa1e</string>
+
+
+
+</resources>
