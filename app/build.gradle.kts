@@ -98,6 +98,8 @@ dependencies {
     implementation ("com.google.firebase:firebase-core:21.1.1")
     implementation ("com.google.android.gms:play-services-auth:20.7.0")
     implementation ("com.facebook.android:facebook-android-sdk:[8,9)")
+    implementation ("com.facebook.android:facebook-login:latest.release")
+
 
 
 
